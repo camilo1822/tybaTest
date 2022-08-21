@@ -1,0 +1,13 @@
+{
+  "name": "tyba-user-register",
+  "version": "1.0.0",
+  "description": "lambda para registrar usuario con Cognito",
+  "main": "index.js",
+  "author": "camilo arboleda <camilo1822@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^5.2.10",
+    "aws-sdk": "^2.1199.0",
+    "jsonschema": "^1.4.1"
+  }
+}

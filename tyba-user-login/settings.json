@@ -1,0 +1,19 @@
+{
+	"variables": {
+		"get": [
+		],
+		"set": {
+			"QA": {},
+			"PDN": {}
+		},
+		"deploy": [],
+		"publish": [],
+		"both": [
+		]
+	},
+	"config": {
+		"timeout": 50,
+		"memorySize": 128,
+		"desc": "tyba-user-login"
+	}
+}

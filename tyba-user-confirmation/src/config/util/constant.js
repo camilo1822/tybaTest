@@ -1,0 +1,15 @@
+const LAMBDA_NAME = 'tyba-user-register';
+const SUCCESS_CODE = '0';
+const SUCCESS_DESCRIPTION = "SUCCESS"
+const BAD_PARAMS_CODE = '1F';
+const BAD_PARAMS_DESCRIPTION = "Parametros de entrada incorrectos"
+const TECHNICAL_ERROR_CODE = '500';
+
+module.exports = {
+  LAMBDA_NAME,
+  SUCCESS_CODE,
+  SUCCESS_DESCRIPTION,
+  BAD_PARAMS_CODE,
+  BAD_PARAMS_DESCRIPTION,
+  TECHNICAL_ERROR_CODE
+};
