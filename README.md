@@ -13,6 +13,7 @@ Se debe probar con un correo real para poder recibir codigo de confirmación:
 #Notas
 1. Todas las apis validan mensajeria enviada, de no cumplir devuelve error "1F"
 2. Cuando la respuesta es exitosa devuelve code "0", de lo contrario "500" con description
+3. Postman con servicios https://www.getpostman.com/collections/fc41f13d314b36fd623f
 
 #service-user-register
 https://5xpo1abvbl.execute-api.us-east-1.amazonaws.com/develop/service-user-register
