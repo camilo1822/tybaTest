@@ -9,6 +9,7 @@ Aplicación rest con nodeJS, desplegada en AWS. Para la autenticación se decidi
 #Instrucciones
 Se debe probar con un correo real para poder recibir codigo de confirmación:
 1. Consumir api de registro, luego de confirmación y por último de login
+2. El password debe ser de una longitud minima de 8 caracteres, tener una mayuscula, numeros y por lo menos un caracter especial
 
 #Notas
 1. Todas las apis validan mensajeria enviada, de no cumplir devuelve error "1F"
